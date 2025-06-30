@@ -138,3 +138,4 @@ with st.spinner("loading data ...."):
 st.toast("toast message",icon="😱")
 
 st.page_link("https://www.youtube.com/",label="youtube website",icon="😀")
+
